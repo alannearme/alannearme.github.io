@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  
+  
+  
+  <entry>
+    <title>sth about DNA methylation</title>
+    <link href="/2022/11/18/sth-about-DNA-methylation/"/>
+    <url>/2022/11/18/sth-about-DNA-methylation/</url>
+    
+    <content type="html"><![CDATA[<h1 id="有关DNA甲基化"><a href="#有关DNA甲基化" class="headerlink" title="有关DNA甲基化"></a>有关DNA甲基化</h1><p><img src="/2022/11/18/sth-about-DNA-methylation/1668741088473.jpg"></p><h2 id="甲基化就是加甲基（-CH3）"><a href="#甲基化就是加甲基（-CH3）" class="headerlink" title="甲基化就是加甲基（-CH3）"></a>甲基化就是加甲基（-CH3）</h2><p>例如图中在胞嘧啶的右上角的5号碳（C）上把甲基团（-CH3）加上去，就实现了胞嘧啶的甲基化；所以一般称为<strong>5’-mC</strong></p><ul><li>甲基化是控制DNA复制的机制之一；（对于预防肿瘤的发生很重要）</li><li>甲基团被添加到了核苷酸的碱基(base)当中，其本质就是改变DNA结构；<br><img src="/2022/11/18/sth-about-DNA-methylation/1668750519114.jpg"></li><li>通常发生在CpG岛当中；<br>  CpG岛：大量胞嘧啶C和鸟嘌呤G（C-G，之间有三个氢键连接）配对发生的地方；<br>  两条链都发生甲基化 ；<br>  <img src="/2022/11/18/sth-about-DNA-methylation/1668752347469.jpg"><br>  CpG: C(Cytosine)-p(Phosphoric acid)-G(Guanine)</li></ul><h2 id="DNA甲基化的功能就是使DNA转录失活-x3D-inactivates-DNA-transcription"><a href="#DNA甲基化的功能就是使DNA转录失活-x3D-inactivates-DNA-transcription" class="headerlink" title="DNA甲基化的功能就是使DNA转录失活 &#x3D; inactivates DNA transcription"></a>DNA甲基化的功能就是使DNA转录失活 &#x3D; inactivates DNA transcription</h2><ul><li>表观遗传学机制之一；</li><li>人体内正常的DNA 70~75% 处于甲基化状态，（这也就是前面说到预防肿瘤发生的重要机制）<br>也就说是：人体内大部分的基因都没被转录；</li><li>细菌的DNA大部分都是未甲基化的；</li></ul><h2 id="DNA甲基化的结局"><a href="#DNA甲基化的结局" class="headerlink" title="DNA甲基化的结局"></a>DNA甲基化的结局</h2><ul><li>减少DNA的活性；</li><li>从而减少RNA的转录；</li><li>进一步导致蛋白的产生减少；</li></ul>]]></content>
+    
+    
+    
+    <tags>
+      
+      <tag>DNA methylation</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>CTCF</title>
+    <link href="/2022/11/11/CTCF/"/>
+    <url>/2022/11/11/CTCF/</url>
+    
+    <content type="html"><![CDATA[<h1 id="CTCF"><a href="#CTCF" class="headerlink" title="CTCF"></a>CTCF</h1><p>CCCTC-binding factor<br>CCCTC结合因子（CTCF）是一种分子量为82 kda，含有11个锌指，作为一种转录因子最为著名。它可以作为转录激活器、抑制器或绝缘体蛋白发挥作用，阻断增强子和启动子之间的交流。</p><p>CTCF在真核生物中广泛表达且高度保守。CTCF由3个独立的结构域组成:n端结构域、c端结构域和含有11个锌指的中心结构域。CTCF利用这些锌指协同结合基因组，其中锌指结构域尤其高度保守，突出了其在CTCF功能中的重要性。</p><h4 id="CTCF-function"><a href="#CTCF-function" class="headerlink" title="CTCF function"></a>CTCF function</h4><p>CTCF与哺乳动物基因组中的55 000 ~ 65 000位点结合，其中约50%位于基因间，35%位于基因内，其余位于启动子近端，表明CTCF可以通过与不同位点结合来排列染色体结构。<br>CTCF也结合核基质并稳定核结构。CTCF的一个特殊作用是它的绝缘体功能。绝缘子是在邻近的基因组结构域之间设置边界的短核苷酸序列。当CTCF与绝缘子序列结合时，增强子和基因启动子之间的对话就会受到阻碍，基因的转录就会被阻断。</p><p>在研究基因调控时，考虑基因座和基因组水平的调控是很重要的，因为基因活性在很大程度上受基因组空间定位和基因组结构稳定性的影响。这一想法强调了CTCF的重要性，CTCF能够与广泛的序列结合，并通过启动子的激活或抑制、增强子的绝缘和远距离染色质相互作用的调节来控制基因表达。</p><h3 id="other"><a href="#other" class="headerlink" title="other"></a>other</h3><p>引用格式：luan et al.，NATURE 2023</p><h4 id="转录因子-transcription-factor，TF"><a href="#转录因子-transcription-factor，TF" class="headerlink" title="转录因子(transcription factor，TF)"></a>转录因子(transcription factor，TF)</h4><p>也称反式作用因子，是能与位于转录起始位点上游50～5000 bp的顺式作用元件、增强子或沉默子结合并参与调节靶基因转录效率的一组蛋白。<br>TF可以直接或间接结合RNA聚合酶，通过识别DNA序列中的顺式作用元件而调节启动转录。转录是基因表达的第一阶段，也是基因调节的主要阶段，通过转录因子与特异的DNA 序列结合，对基因的表达起抑制或增强的作用。识别 DNA 序列的中的这些结合区域，即转录因子结合位点(Transcription FactorBinding Site, TFBS)识别，对了解基因的转录活性及理解基因表达有着重要意义。</p>]]></content>
+    
+    
+    
+    <tags>
+      
+      <tag>read paper</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>质粒切割+切胶回收+质粒扩增</title>
+    <link href="/2022/10/31/%E8%B4%A8%E7%B2%92%E5%88%87%E5%89%B2-%E5%88%87%E8%83%B6%E5%9B%9E%E6%94%B6-%E8%B4%A8%E7%B2%92%E6%89%A9%E5%A2%9E/"/>
+    <url>/2022/10/31/%E8%B4%A8%E7%B2%92%E5%88%87%E5%89%B2-%E5%88%87%E8%83%B6%E5%9B%9E%E6%94%B6-%E8%B4%A8%E7%B2%92%E6%89%A9%E5%A2%9E/</url>
+    
+    <content type="html"><![CDATA[<h1 id="质粒切割-切胶回收-质粒扩增"><a href="#质粒切割-切胶回收-质粒扩增" class="headerlink" title="质粒切割+切胶回收+质粒扩增"></a>质粒切割+切胶回收+质粒扩增</h1><h2 id="质粒酶切"><a href="#质粒酶切" class="headerlink" title="质粒酶切"></a>质粒酶切</h2><ol><li>酶切体系（<strong>大体系酶切，小体系连接</strong>）：</li></ol><table><thead><tr><th align="left">成分</th><th align="right">volume</th></tr></thead><tbody><tr><td align="left">10x NEB Buffer (r2.1)</td><td align="right">5uL</td></tr><tr><td align="left">Bbs I</td><td align="right">1uL</td></tr><tr><td align="left">plasmid(pLH-2XMS-gRNA)</td><td align="right">10uL</td></tr><tr><td align="left">ddH<sub>2</sub>O</td><td align="right">34uL</td></tr><tr><td align="left">Total</td><td align="right">50uL</td></tr></tbody></table><ol start="2"><li>酶切条件：<br>37℃，15min，酶的工作温度，<br>65℃，20min，灭活酶</li></ol><h2 id="琼脂糖凝胶电泳—AGE-agarose-gel-electrophoresis"><a href="#琼脂糖凝胶电泳—AGE-agarose-gel-electrophoresis" class="headerlink" title="琼脂糖凝胶电泳—AGE(agarose gel electrophoresis)"></a>琼脂糖凝胶电泳—AGE(agarose gel electrophoresis)</h2><h3 id="1-琼脂糖凝胶电泳配置："><a href="#1-琼脂糖凝胶电泳配置：" class="headerlink" title="1%琼脂糖凝胶电泳配置："></a>1%琼脂糖凝胶电泳配置：</h3><ol><li>0.3g agarose + 35mL 1xTAE；</li><li>加热之后冷却至不烫手之后；</li><li>3uL gelsafe染料(10000x)；</li><li>然后制胶，冷却后使用；</li></ol><h3 id="电泳："><a href="#电泳：" class="headerlink" title="电泳："></a>电泳：</h3><ol><li>上样：12uL&#x2F;well：</li></ol><table><thead><tr><th align="left">成分</th><th align="right">1x</th><th align="center">3.5x</th></tr></thead><tbody><tr><td align="left">enzyme-digested product</td><td align="right">10u</td><td align="center">35uL</td></tr><tr><td align="left">6x loading dye</td><td align="right">2uL</td><td align="center">7uL</td></tr><tr><td align="left">Total</td><td align="right">12uL</td><td align="center">42uL</td></tr></tbody></table><ol start="2"><li><p>电泳条件：<br>120V，300mA,Time &#x3D; 35min</p></li><li><p>切胶回收目的片段：<br>参考试剂盒：<br>E.Z.N.A.® Gel Extraction Kit (V-spin)<br>SKU: D2500-01<br><a href="https://ensur.omegabio.com/ensur/contentAction.aspx?key=Production.1999.S2R4E1A3.20181107.32.4668301">https://ensur.omegabio.com/ensur/contentAction.aspx?key=Production.1999.S2R4E1A3.20181107.32.4668301</a></p></li></ol><h3 id="连接酶切产物和转化"><a href="#连接酶切产物和转化" class="headerlink" title="连接酶切产物和转化"></a>连接酶切产物和转化</h3><ol><li>体系：</li></ol><table><thead><tr><th align="left">成分</th><th align="right">volume</th></tr></thead><tbody><tr><td align="left">酶切产物</td><td align="right">6uL</td></tr><tr><td align="left">10x NEB Buffer</td><td align="right">1uL</td></tr><tr><td align="left">T4 Ligase</td><td align="right">1uL</td></tr><tr><td align="left">olig primer（3，4，7）</td><td align="right">1uL</td></tr><tr><td align="left">ddH<sub>2</sub>O</td><td align="right">1uL</td></tr><tr><td align="left">Total</td><td align="right">10uL</td></tr></tbody></table><ol start="2"><li><p>37℃，15min；12℃，∞</p></li><li><p>转化感受态细胞：<br> 参考感受态细胞操作:</p><p>stbl 3 昂羽生物 G6009 <a href="http://angyubio.com/UploadedFiles/202112821194064225.pdf">http://angyubio.com/UploadedFiles/202112821194064225.pdf</a></p><p>DH5α  康为世纪 CW0808S <a href="https://cwbio.com/uploads/20210705/1bc6e960ca39861597a7662ec75ecbe4.pdf">https://cwbio.com/uploads/20210705/1bc6e960ca39861597a7662ec75ecbe4.pdf</a></p></li><li><p>第二天观察平板是否长菌落；</p></li></ol><h3 id="质粒扩增"><a href="#质粒扩增" class="headerlink" title="质粒扩增"></a>质粒扩增</h3><p><strong>注意事项：实验室Ampicillin浓度为5ug&#x2F;mL(1000x)，每1mL LB media添加1uL Amp</strong>  </p><ol><li>巴斯德管中添加6mL LB液体培养基，向其中添加5uL Amp；</li><li>200uL枪头挑取单个菌落，打入巴斯德管中；</li><li>120rpm，37℃，过夜培养；</li><li>第二天送菌液测序或者提质粒；</li></ol>]]></content>
+    
+    
+    
+    <tags>
+      
+      <tag>分子实验</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>R的使用</title>
+    <link href="/2022/10/27/R%E7%9A%84%E4%BD%BF%E7%94%A8/"/>
+    <url>/2022/10/27/R%E7%9A%84%E4%BD%BF%E7%94%A8/</url>
+    
+    <content type="html"><![CDATA[<h2 id="有关R的一些指令"><a href="#有关R的一些指令" class="headerlink" title="有关R的一些指令"></a>有关R的一些指令</h2><h3 id="清空环境变量"><a href="#清空环境变量" class="headerlink" title="清空环境变量"></a>清空环境变量</h3><p><code>rm(list=ls())</code></p><h3 id="获取当前路径"><a href="#获取当前路径" class="headerlink" title="获取当前路径"></a>获取当前路径</h3><p><code>getwd()</code></p><h3 id="设置路径（更换引号内的路径）"><a href="#设置路径（更换引号内的路径）" class="headerlink" title="设置路径（更换引号内的路径）"></a>设置路径（更换引号内的路径）</h3><p><code>setwd(&quot;C:\\Users\\alan\\Desktop&quot;)</code></p><h3 id="统计df1这个文件有多少行多少列"><a href="#统计df1这个文件有多少行多少列" class="headerlink" title="统计df1这个文件有多少行多少列"></a>统计df1这个文件有多少行多少列</h3><p><code>dim(df1)</code></p><h3 id="读取111-csv这个文件并赋值给df"><a href="#读取111-csv这个文件并赋值给df" class="headerlink" title="读取111.csv这个文件并赋值给df"></a>读取111.csv这个文件并赋值给df</h3><p><code>df&lt;-read.csv(&quot;111.csv&quot;)</code></p>]]></content>
+    
+    
+    
+    <tags>
+      
+      <tag>R</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>Peak在TSS上下游的分布图怎么看</title>
+    <link href="/2022/10/26/%E7%9C%8B%E5%9B%BE/"/>
+    <url>/2022/10/26/%E7%9C%8B%E5%9B%BE/</url>
+    
+    <content type="html"><![CDATA[<h2 id="Peak在TSS上下游的分布图怎么看"><a href="#Peak在TSS上下游的分布图怎么看" class="headerlink" title="Peak在TSS上下游的分布图怎么看"></a>Peak在TSS上下游的分布图怎么看</h2><p>![]<a href="http://www.seqhealth.cn/upload/20190222/5c6f686d8abf7.png">1666789240064.jpg</a></p><h5 id="从0开始，往前后各数2kb，在这段4kb区间内的信号的变化。"><a href="#从0开始，往前后各数2kb，在这段4kb区间内的信号的变化。" class="headerlink" title="从0开始，往前后各数2kb，在这段4kb区间内的信号的变化。"></a>从0开始，往前后各数2kb，在这段4kb区间内的信号的变化。</h5><ol><li>其实就是距离TSS位点的信号变化；</li><li>TSS即<strong>transcriptionn start site</strong>，也就是转录的起始位点：通常指一个基因的5’端转录的第一个碱基，通常情况是A&#x2F;G；</li><li>该位点更倾向于一个<strong>物理概念</strong>，而非生物意义上的<strong>启动子</strong>；</li></ol><p><strong>纵坐标是指reads覆盖深度，反应目的蛋白分布的情况：</strong><br><strong>图中横坐标为基因位置；</strong></p><p>在做chIP的时候，input没有富集，reads分布较低；<br>而IP对目的蛋白及其结合的序列的富集作用会使得reads覆盖深度提高，产生相应的结合峰</p><p><strong>通常TSS上下游是组蛋白（histon）和转录因子（TF）主要结合的调控区域，所以也是大量出现结合峰的区域，体现在图中即：</strong><br>![]<a href="http://www.seqhealth.cn/upload/20190222/5c6f68411b37c.png">(2022-10-26-21-19-08.png)</a><br>![]<a href="http://www.seqhealth.cn/upload/20190222/5c6f683a8f2bc.png">(2022-10-26-21-19-18.png)</a></p><p>其它问题：<br><strong>为什么TSS位点前面都有一个“谷”</strong></p><p>ps:<br>GM12878：<br>人源的B淋巴细胞系；<br>悬浮状态培养；<br>培养条件：89%IMDM+10%FBS+1%P&#x2F;S</p><p>2022.10.26 After lilab JC</p>]]></content>
+    
+    
+    
+    <tags>
+      
+      <tag>read paper</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>hexo 使用过程</title>
+    <link href="/2022/10/21/hexo-%E4%BD%BF%E7%94%A8%E8%BF%87%E7%A8%8B/"/>
+    <url>/2022/10/21/hexo-%E4%BD%BF%E7%94%A8%E8%BF%87%E7%A8%8B/</url>
+    
+    <content type="html"><![CDATA[<h1 id="hexo使用过程"><a href="#hexo使用过程" class="headerlink" title="hexo使用过程"></a>hexo使用过程</h1><h4 id="更换主题-以fluid该主题为例"><a href="#更换主题-以fluid该主题为例" class="headerlink" title="更换主题(以fluid该主题为例)"></a>更换主题(以<strong>fluid</strong>该主题为例)</h4><p><code>git clone https://github.com/fluid-dev/hexo-theme-fluid.git</code></p><hr><h4 id="更改menu按键"><a href="#更改menu按键" class="headerlink" title="更改menu按键"></a>更改<code>menu</code>按键</h4><p>进入主题中的<code>_config.yml</code>文件当中，查询<code>menu</code>，对不想要的按钮使用<code>#</code>给它注释掉就行了&#96;。</p><hr><h3 id="建立，在本地上"><a href="#建立，在本地上" class="headerlink" title="建立，在本地上"></a>建立，在本地上</h3><p><code>hexo s</code></p><h3 id="上传至git"><a href="#上传至git" class="headerlink" title="上传至git"></a>上传至git</h3><p><code>hexo d</code></p><h3 id="生成-generate-新的界面"><a href="#生成-generate-新的界面" class="headerlink" title="生成(generate)新的界面"></a>生成(generate)新的界面</h3><p><code>hexo g</code></p><h3 id="清除缓存"><a href="#清除缓存" class="headerlink" title="清除缓存"></a>清除缓存</h3><p><code>hexo clean</code></p><hr><h3 id="建立名叫xxxxx的新blog"><a href="#建立名叫xxxxx的新blog" class="headerlink" title="建立名叫xxxxx的新blog"></a>建立名叫xxxxx的新blog</h3><p><code>hexo new  xxxxx</code></p><h3 id="建立名叫yyyyy的新bolg草稿"><a href="#建立名叫yyyyy的新bolg草稿" class="headerlink" title="建立名叫yyyyy的新bolg草稿"></a>建立名叫yyyyy的新bolg草稿</h3><p><code>hexo new draft yyyyy</code></p><h3 id="把名叫yyyyy的草稿发表"><a href="#把名叫yyyyy的草稿发表" class="headerlink" title="把名叫yyyyy的草稿发表"></a>把名叫yyyyy的草稿发表</h3><p><code>hexo P yyyyy</code></p>]]></content>
+    
+    
+    
+    <tags>
+      
+      <tag>hexo用法</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="/2022/10/20/hello-world/"/>
+    <url>/2022/10/20/hello-world/</url>
+    
+    <content type="html"><![CDATA[<p>memeda baby</p>]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  
+</search>
