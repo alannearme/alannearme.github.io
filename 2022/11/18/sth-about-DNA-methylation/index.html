@@ -29,8 +29,9 @@
 <meta property="og:image" content="http://example.com/2022/11/18/sth-about-DNA-methylation/1668992719250.jpg">
 <meta property="og:image" content="http://example.com/2022/11/18/sth-about-DNA-methylation/1668994264290.jpg">
 <meta property="og:image" content="http://example.com/2022/11/18/sth-about-DNA-methylation/1669012764256.jpg">
+<meta property="og:image" content="http://example.com/2022/11/18/sth-about-DNA-methylation/1669087804715.jpg">
 <meta property="article:published_time" content="2022-11-18T03:25:24.000Z">
-<meta property="article:modified_time" content="2022-11-21T07:28:43.121Z">
+<meta property="article:modified_time" content="2022-11-22T03:45:50.208Z">
 <meta property="article:author" content="xinhong laun">
 <meta property="article:tag" content="DNA methylation">
 <meta name="twitter:card" content="summary_large_image">
@@ -214,7 +215,7 @@
       <span class="post-meta mr-2">
         <i class="iconfont icon-chart"></i>
         
-          694 words
+          973 words
         
       </span>
     
@@ -225,7 +226,7 @@
         
         
         
-          6 mins
+          9 mins
         
       </span>
     
@@ -305,7 +306,10 @@ img{
 <li>经过解链后分开两条链：watson链(5’-3’)，crick链(3’-5’);</li>
 <li>bisulfite conversion后会出现碱基的改变(C-&gt;U)；</li>
 <li>经过PCR之后会产生4条DNA单链;</li>
-<li>检测改变的碱基；</li>
+<li>检测改变的碱基；<br><img src="/2022/11/18/sth-about-DNA-methylation/1669087804715.jpg" srcset="/img/loading.gif" lazyload>   </li>
+<li>有关PCR之后会产生4条链的问题：</li>
+<li>bisulfite之后的C变成了U，在扩增的时候A会与其配对，所以产生了BSWR那条链，与BSWR配对的那条链应该是含有U碱基的，但pcr体系当中不含U碱基，而实T碱基；所以经过PCR之后，只会有一条链中含有U，就是最初经过bisulfite转换的那1条链；而随着扩增，最后含量最多的还是与BSWR配对的BSW链，而且这条链中的U最终被替换成了T，原先含有U的那条链，永远只有1条；BSC同理。</li>
+<li>也就是说最后的PCR体系当中有6种链，BSW(不含U),BSWR,BSC(不含U),BSCR，以及BSW(含U)，BSC(含U)；</li>
 </ul>
 
                 
